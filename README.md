@@ -85,3 +85,4 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## RESULT
+The program is completed successful.
