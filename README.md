@@ -80,8 +80,8 @@ admin.site.register(Student,StudentAdmin)
 ## OUTPUT
 
 ### student list
-![studentlist](student.png.png)
-![primarykererror](primarykererror.png)
+![studentlist](Students.png.png)
+![primarykererror](primarykeyerror.png)
 
 
 ## RESULT
